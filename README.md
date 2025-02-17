@@ -9,7 +9,7 @@
 - 🤖 [AI Bias Playbook](https://github.com/DataShells83/Daris-19_2024-Datathon-WID)  
 - 🗣 [Meet My Chatbot Friend](https://github.com/DataShells83/Meet-My-ChatBot-Friend-)
 
-## 📬 Let's Connect!
+## 📬 Happy to Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/herolds/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DataShells83)
 
