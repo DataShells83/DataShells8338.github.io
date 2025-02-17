@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sherline Herold!
 
-<!--
-**DataShells83/DataShells83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Python | SQL | Tableau | Data Storytelling**
+🔎 Passionate about **Data Governance, AI Ethics, and Community Impact Analytics**  
+🚀 Exploring **Generative AI & Responsible AI and Data Engineering**
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- 🏛 [Visualizing Constituent Concerns](https://github.com/DataShells83/constituent-data)  
+- 🤖 [AI Bias Playbook](https://github.com/DataShells83/Daris-19_2024-Datathon-WID)  
+- 🗣 [Meet My Chatbot Friend](https://github.com/DataShells83/Meet-My-ChatBot-Friend-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/herolds/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DataShells83)
+
